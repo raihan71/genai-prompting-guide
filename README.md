@@ -17,7 +17,7 @@ This README provides a curated list of resources to learn about Artificial Intel
 - [Reinforcement Learning Basics][7]
 - [Berkeley AI course][8]
 - [Towards Data Science - AI Fundamentals][9]
-- 
+- [The Rise of AI Engineer][30]
 
 ## Generative AI
 - [Generative Adversarial Networks (GANs) Introduction][10]
@@ -30,6 +30,7 @@ This README provides a curated list of resources to learn about Artificial Intel
 - [Transformers by Hugging Face][17]
 - [Self-Supervised Learning for Generative AI][18]
 - [Applications of Generative AI in Healthcare][19]
+- [Getting to know with LLMA][31]
 
 ## Prompt Engineering
 - [What is Prompt Engineering?][20]
@@ -42,6 +43,8 @@ This README provides a curated list of resources to learn about Artificial Intel
 - [Prompt Injection Attacks][27]
 - [Prompt Optimization Techniques][28]
 - [Large Language Model Prompting for Beginners][29]
+- [Prompt Engineering Guide][32]
+- [Prompt Template Pack][33]
 
 ---
 
@@ -75,3 +78,7 @@ This README provides a curated list of resources to learn about Artificial Intel
 [27]: https://www.oreilly.com/library/view/prompt-injection-attacks/
 [28]: https://www.promptingtechniques.com/
 [29]: https://ai.google/prompting-for-beginners
+[30]: https://www.latent.space/p/ai-engineer
+[31]: https://www.youtube.com/watch?v=Z5MFSlDrOdA
+[32]: https://www.promptingguide.ai/
+[33]: https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=9b1d189283d54b6bba80882239ecbb1a
